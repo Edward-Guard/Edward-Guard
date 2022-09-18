@@ -1,0 +1,2 @@
+- Olá meu nome é Edward,estou estudando programação orientada ao desenvolvimento web.
+- Possuo apenas experiência com projetos de estudo e procuro uma oportunidade para me inserir no mercado.
